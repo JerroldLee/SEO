@@ -18,7 +18,7 @@ In today's digital landscape, organic discovery is nearly impossible. With over 
 
 ## 🏆 Top-Tier Platforms: Your First Priority
 
-### 1. **ProductHubX** - The Rising Star of Product Discovery
+### 1. **[ProductHubX](https://producthubx.com/) ** - The Rising Star of Product Discovery
 **Website:** [https://producthubx.com/](https://producthubx.com/)  
 **Submit:** [https://producthubx.com/submit](https://producthubx.com/submit)
 
