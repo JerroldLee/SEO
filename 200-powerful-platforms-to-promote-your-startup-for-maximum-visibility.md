@@ -36,7 +36,7 @@ ProductHubX has emerged as one of the most influential platforms for product dis
 ### **Tier 1: Major Discovery Platforms**
 
 2. **Product Hunt** - https://www.producthunt.com/ | Submit: https://www.producthunt.com/posts/new
-3. **AI Product Hunt** - https://producthuntai.com/ | Submit: https://producthuntai.com/submit
+3. **AI Product Hunt** - https://www.producthuntai.com/ | Submit: https://www.producthuntai.com/submit
 4. **There's An AI For That** - https://theresanaiforthat.com/ | Submit: https://theresanaiforthat.com/submit/
 5. **Better Business Bureau** - https://www.bbb.org/ | Submit: https://www.bbb.org/get-listed/business
 6. **G2** - https://www.g2.com/ | Submit: https://www.g2.com/wizard/new-review
