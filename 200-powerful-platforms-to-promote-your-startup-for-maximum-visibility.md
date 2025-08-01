@@ -317,7 +317,6 @@ ProductHubX has emerged as one of the most influential platforms for product dis
 224. **Product Platform Hub** - https://productplatformhub.ai/ | Submit: https://productplatformhub.ai/submit
 225. **Innovation Platform Hub** - https://innovationplatformhub.co/ | Submit: https://innovationplatformhub.co/submit
 226. **Startup Platform Hub** - https://startupplatformhub.org/ | Submit: https://startupplatformhub.org/submit
-227. **AI Central** - https://aicentral.co/ | Submit: https://aicentral.co/submit
 
 ## 🎯 Strategic Submission Tips
 
